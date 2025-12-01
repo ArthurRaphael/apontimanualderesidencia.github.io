@@ -1,6 +1,6 @@
 ---
 title: Adicionando uma Nova Unidade de Ensino
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

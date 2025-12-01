@@ -1,6 +1,6 @@
 ---
 title: Alterando a Senha do Admin
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

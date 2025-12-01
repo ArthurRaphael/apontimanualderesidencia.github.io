@@ -1,6 +1,6 @@
 ---
 title: Cadastrando um professor 
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

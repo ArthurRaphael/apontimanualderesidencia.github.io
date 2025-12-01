@@ -1,6 +1,6 @@
 ---
 title: Adicionando uma nova chamada de inscrição
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

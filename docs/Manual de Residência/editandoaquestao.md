@@ -1,6 +1,6 @@
 ---
 title: Editando a questão
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

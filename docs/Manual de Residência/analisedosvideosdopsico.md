@@ -1,6 +1,6 @@
 ---
 title: Análise dos Vídeos com o Psicólogo
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

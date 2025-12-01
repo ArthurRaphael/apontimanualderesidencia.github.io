@@ -1,6 +1,6 @@
 ---
 title: Editando uma empresa ao Programa de Residência
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

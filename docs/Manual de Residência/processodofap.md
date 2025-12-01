@@ -1,6 +1,6 @@
 ---
 title: Como é o processo do FAP ?
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

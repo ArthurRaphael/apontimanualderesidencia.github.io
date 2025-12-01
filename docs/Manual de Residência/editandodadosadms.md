@@ -1,6 +1,6 @@
 ---
 title: Editando os dados do Admin
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

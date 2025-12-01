@@ -1,6 +1,6 @@
 ---
 title: Adicionando uma empresa ao Projeto Integrador
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

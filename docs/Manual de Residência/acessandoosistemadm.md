@@ -1,6 +1,6 @@
 ---
 title: Acessando o sistema do FAP como Admin
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

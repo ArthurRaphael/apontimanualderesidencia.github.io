@@ -1,6 +1,6 @@
 ---
 title: Adicionando uma empresa ao Progama de Residência
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

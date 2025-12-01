@@ -1,6 +1,6 @@
 ---
 title: Criando Equipes
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

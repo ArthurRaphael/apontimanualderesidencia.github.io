@@ -1,6 +1,6 @@
 ---
 title: Adicionando uma nova questão no banco de questões
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Acessando o sistema do FAP como Usuário de Empresa
-parent: FAP
+parent: Manual de Residência
 nav_order: 1
 ---
 
