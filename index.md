@@ -10,4 +10,3 @@ permalink: /
 
 
 Bem-vindo à página do Manual da Residência Aponti, aqui você encontrará todo o passo a passo das etapas do nosso processo de residência.
-
