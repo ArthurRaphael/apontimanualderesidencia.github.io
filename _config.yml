@@ -57,7 +57,7 @@ exclude:
   - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "assets/images/logodasoftex.png"
+logo: "assets/images/APONTI_MARCA_HORIZONTAL_RGB-01.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
