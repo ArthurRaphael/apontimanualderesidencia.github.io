@@ -7,6 +7,8 @@ nav_order: 2
 {: .no_toc }
 
 
-O Softex Pernambuco – Centro de Excelência em Tecnologia de Software do Recife – é uma Associação civil sem fins lucrativos, criada em 8 de novembro de 1994. A entidade tem sua origem vinculada ao Programa Softex2000, representando a consolidação institucional do Núcleo Softex do Recife, criada logo no início do Programa, em maio de 1993 (foi o sexto núcleo a ser criado no País, dos cerca de 28 existentes).
+Somos a maior associação de empresas de TIC do Nordeste, com mais de três décadas de atuação no fortalecimento do setor. Reunimos mais de 400 empresas associadas em um ecossistema vibrante, conectando negócios, talentos e oportunidades que aceleram o desenvolvimento da região.
 
-Atualmente possui mais de 400 empresas associadas. Em dezembro de 2007 obteve o registro junto ao CATI-Conselho de Atividades de Tecnologia da Informação do MCT-Ministério da Ciência e Tecnologia.
+Reconhecida nacionalmente como Centro de Excelência em Tecnologia de Software e registrada no CATI/MCT desde 2007, a Aponit é referência em inovação, articulação estratégica e geração de valor para o mercado.
+
+Nossa missão é conectar empresas, representar o setor e transformar ideias em resultados concretos. Aqui, inovação, negócios e representatividade caminham juntos para posicionar Pernambuco e o Nordeste como protagonistas do cenário tecnológico brasileiro.
