@@ -1,52 +1,36 @@
 ---
-title: Como é o processo do FAP ?
+title: Etapas do processo de residência
 parent: Manual de Residência
-nav_order: 1
+nav_order: 2
 ---
 
-# Como é o processo do FAP ?
+# Etapas do processo de residência
 
 ---
 
-**Como é o processo da chamada de inscrição ?**
+**Quais as etapas que compõem o processo de residência**
 
-Neste tópico, iremos explicar como é realizado todo o processo da chamada de inscrição.
+Neste tópico, iremos explicar todas as etapas do processo de residência.
 
-O processo começa, logo após as inscrições serem fechadas e após os candidatos confirmarem as suas inscrições. A chamada de inscrição é dividida por etapas, são elas:
+**1- Cadastro das empresas na residência**
 
-- Teste de lógica;
-- Análise dos vídeos dos candidatos;
-- Realização das matrículas dos currículos;
-- Residência
-- Preenchimento do currículo;
-- Alocação dos inscritos nas residências.
+Para começar, as empresas poderão se cadastrar via formulário https://test.bfd.softexpe.org.br/residencia, através desse link, as empresas vão preencher um formulário com os dados da empresa e os detalhes do projeto que será proposto. Aqui vai um resumo das etapas do formulário de cadastro:
 
-Iremos explicar cada um deles.
+ - **Seção Empresa:** Aqui será necessário preencher os campos com os dados da empresa;
 
-- **Teste de Lógica**
+ - **Seção Residência:** Aqui a empresa dirá qual o projeto/problema, e nossos inscritos deverão criar uma solução para ele em um período de 3 meses.
 
-Nessa etapa do processo, serão enviados para os seus respectivos e-mails, os testes de lógica. Aqui os candidatos terão 45 minutos para responder um total de 20 questões. Caso o tempo limite seja atingido, somente as respostas que foram preenchidas serão consideradas.
+**2- Alocando estudantes para a empresa**
 
-Caso o candidato tenha êxito, um e-mail de aprovação será enviado e o candidato irá passar para a próxima etapa. Do contrário, será enviado um e-mail de reprovação e o inscrito é eliminado do processo.
+A próxima etapa será a alocação dos estudantes para as empresas, aqui vai depender muito da quantidade de vagas que as empresas disponibilizaram para os alunos, esse processo poderá ser feito manualmente ou de forma aleatória pelo nosso sistema.
+Aqui vai um resumo sobre o processo de alocação.
 
-- **Análise dos Vídeos**
+**3- Iniciando a residência**
 
-Nessa etapa, os candidatos deverão enviar um vídeo de 1 minuto de duração, respondendo a pergunta: “**O que motiva você a participar da Formação Acelerada em Programação do Softex Pernambuco ?**”.
+Após a etapa da seleção dos estudantes, o período de residência começará, os inscritos selecionados vão desenvolver o projeto que foi proposto pela empresa no período de 3 meses até a finalização do processo.
 
-Após a submissão dos vídeos, quem irá avaliá-los será o Psicólogo do FAP, que vai decidir os candidatos que passarão para próxima fase e aqueles que ficarão na lista de espera para uma segunda chamada.
+**4- Finalizando a residência**
 
-- **Período de Matrícula**
+Ao final dos 3 meses, a empresa vai finalizar sua participação na residência com a resolução do projeto. A empresa ao final desse período, poderá contratar o(s) inscrito(s) que participaram e foram ativos do início ao fim do projeto, para trabalhar na empresa.
 
-Para o candidato aprovado, será enviado um e-mail para confirmar a sua matrícula, com os dados do curso (Curso escolhido, Dias, horários e Unidade de ensino escolhida) e sua continuidade para a próxima fase.
-
-- **Residência**
-
-Nessa etapa do processo da chamada, os candidatos serão alocados nas respectivas empresas de acordo com a sua localidade e de acordo com a sua modalidade de curso escolhida.
-
-- **Preenchimento do currículo**
-
-Nessa etapa, os inscritos terão que preencher seus currículos, para poder prosseguir até a última etapa.
-
-- **Alocação dos inscritos**
-
-Após o preenchimento dos currículos, todos os inscritos aprovados, serão alocados nas empresas cadastradas no programa de residência, por um período de 3 meses.
+Este é o fim do manual da residência.
